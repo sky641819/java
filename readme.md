@@ -35,3 +35,13 @@ autocmd! bufwritepost .vimrc source % " vimrc文件修改之后自动加载。 l
                                  let g:pydiction_location = '~/.vim/tools/pydiction/complete-dict'  
                                  "defalut g:pydiction_menu_height == 15  
                                  let g:pydiction_menu_height = 20   
+
+
+
+                                 dfdsfsd
+
+
+                                 dffsfds
+
+
+
